@@ -1,0 +1,53 @@
+html {
+  cursor: url(cursor1.png), auto;
+}
+
+body {
+  font-family:'Consolas', Courier, Monospace;
+  text-align: center;
+  background-color:rgba(0, 255, 114, 1);
+  background-image: url(fondo.png);
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+a{
+  color: rgb(144, 0, 255);
+  border: 5px solid;
+  padding: 15px 32px;
+  display: inline-block;
+  border-radius: 60px;
+  font-size: 50px;
+} 
+
+h1{
+  color: rgb(144, 0, 255);
+  border: 5px solid;
+  padding: 15px 32px;
+  display: inline-block;
+  border-radius: 60px;
+  font-size: 35px;
+} 
+
+h2{
+    color: rgb(200, 20, 100);
+  border: 5px solid;
+  padding: 15px 32px;
+  display: inline-block;
+  font-size: 35px;
+}
+
+img{
+    width: 300px;
+    height: auto;
+}
+
+.potato{
+      color: rgb(200, 20, 100);
+  border: 5px solid;
+  padding: 15px 32px;
+  display: inline-block;
+  font-size: 35px;
+}
